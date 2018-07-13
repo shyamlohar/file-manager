@@ -1,6 +1,6 @@
 # File Arranger
 
-#### Small Script to keep your folders clean from pile of files.
+#### Minimal Script to keep your folders clean from pile of files.
 ##### just run python script in folder you want to organize and script will do the job
 
 ### Example
