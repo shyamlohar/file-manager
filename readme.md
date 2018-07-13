@@ -26,10 +26,10 @@
 ```
    Arrangedfiles/
    		textfiles/..*txt files here*
-        images/..*image files here*
-        videos/..*video files here*
-        compressed_files/..*compressed files here*
-        documents/.. *document files here* 
+         images/..*image files here*
+         videos/..*video files here*
+         compressed_files/..*compressed files here*
+         documents/.. *document files here* 
    ```
    
  ##### If you wanna move files with certain extension to desired folder you can pass arguments while running script as shown below 
